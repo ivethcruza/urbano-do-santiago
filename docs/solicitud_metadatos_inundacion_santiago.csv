@@ -1,0 +1,19 @@
+archivo,categoria,informacion_requerida,responsable_fuente,fuente_documental_url_o_codigo,valor_confirmado,fecha_confirmacion,estado
+STG_H_FLU_RC_T100_2020.tif,procedencia,Institución productora y autorización de difusión,,,,,pendiente
+STG_H_FLU_RC_T100_2020.tif,definición,Significado y unidad de clases 1 a 5,,,,,pendiente
+STG_H_FLU_RC_T100_2020.tif,escenario,Definición oficial de FLU RC T100 y 2020,,,,,pendiente
+STG_H_FLU_RC_T100_2020.tif,método,Método hidráulico/hidrológico y validación,,,,,pendiente
+STG_H_FLU_R85_T100_2050.tif,procedencia,Institución productora y autorización de difusión,,,,,pendiente
+STG_H_FLU_R85_T100_2050.tif,definición,Significado y unidad de clases 1 a 5,,,,,pendiente
+STG_H_FLU_R85_T100_2050.tif,escenario,Definición oficial de FLU R85 T100 y 2050,,,,,pendiente
+STG_H_FLU_R85_T100_2050.tif,método,Método hidráulico/hidrológico y validación,,,,,pendiente
+STG_H_PLU_RC_T100_2020.tif,procedencia,Institución productora y autorización de difusión,,,,,pendiente
+STG_H_PLU_RC_T100_2020.tif,definición,Significado y unidad de clases 1 a 5,,,,,pendiente
+STG_H_PLU_RC_T100_2020.tif,escenario,Definición oficial de PLU RC T100 y 2020,,,,,pendiente
+STG_H_PLU_RC_T100_2020.tif,método,Método pluvial y validación,,,,,pendiente
+STG_H_PLU_R85_T100_2050.tif,procedencia,Institución productora y autorización de difusión,,,,,pendiente
+STG_H_PLU_R85_T100_2050.tif,definición,Significado y unidad de clases 1 a 5,,,,,pendiente
+STG_H_PLU_R85_T100_2050.tif,escenario,Definición oficial de PLU R85 T100 y 2050,,,,,pendiente
+STG_H_PLU_R85_T100_2050.tif,método,Método pluvial y validación,,,,,pendiente
+STG_barrios.gpkg,cartografía,Versión ONE y explicación de ENLACE repetidos,,,,,pendiente
+STG_limite_municipal_recuperado.gpkg,cartografía,Versión cartográfica ONE y consistencia de 31 secciones,,,,,pendiente
